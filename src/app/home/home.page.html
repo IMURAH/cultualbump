@@ -1,0 +1,91 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>
+      Culture Bump
+    </ion-title>
+    <ion-buttons slot="end" (click)="toggleMultiSelect()" *ngIf="!multi_mode">
+      <ion-button>
+        Multi
+      </ion-button>
+    </ion-buttons>
+    <ion-buttons slot="end" (click)="toggleMultiSelect()" *ngIf="multi_mode">
+      <ion-button>
+        Single
+      </ion-button>
+    </ion-buttons>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+    <ion-card class="welcome-card" *ngIf="home_picked" (click)="openSettings()">
+      <!-- <img src="/assets/shapes.svg" alt="" /> -->
+      <ion-card-header>
+        <ion-card-title>
+          Your Country
+        </ion-card-title>
+        <ion-list lines="none">
+          <ion-item>
+            {{ home.name }}
+            <ion-icon name="create" slot="end"></ion-icon>
+          </ion-item>
+        </ion-list>
+      </ion-card-header>
+      <ion-card-content>
+        <img src='assets/flags/square/{{home.resourse}}.png'>
+      </ion-card-content>
+    </ion-card>
+
+    <ion-card>
+      <ion-card-header>
+        <ion-card-subtitle>
+          Compare with Country
+        </ion-card-subtitle>
+      </ion-card-header>
+      <div *ngIf="!multi_mode">
+        <ion-list *ngFor="let cont of continents" lines="none">
+          <ion-list-header>
+            <ion-label>{{cont.name}}</ion-label>
+          </ion-list-header>
+          <ion-item *ngFor="let count of cont.countries" (click)="openBumpsPage(count)" detail="true">
+            <ion-thumbnail slot="start">
+              <img src='assets/flags/square/{{count.resourse}}.png'>
+            </ion-thumbnail>
+            <ion-label>{{count.name}}</ion-label>
+          </ion-item>
+        </ion-list>
+      </div>
+
+      <div *ngIf="multi_mode">
+        <ion-button expand="block" (click)="multiCompare()">Compare</ion-button>
+        <ion-list lines="none">
+          <ion-item *ngFor="let count of flat_country_list; index as i" >
+            <ion-thumbnail slot="start">
+              <img src='assets/flags/square/{{count.resourse}}.png'>
+            </ion-thumbnail>
+            <ion-label>{{ count.name }}</ion-label>
+            <ion-checkbox slot="end" [(ngModel)]="selected_countries[i]" (ionChange)="checkMaxSelection()" [disabled]="disabled_countries[i]"></ion-checkbox>
+          </ion-item>
+        </ion-list>
+      </div>
+
+    </ion-card>
+</ion-content>
+
+<!-- 
+<ion-card>
+    <ion-list lines="none">
+      <ion-item *ngFor="let cont of continents"> 
+          <ion-list-header>
+              <ion-label> {{ cont.name }}</ion-label>
+            </ion-list-header>
+            <ion-item *ngFor="let count of cont.countries" routerLink="/tabs/tab2" routerDirection="forward">
+              <ion-thumbnail slot="start">
+                <img src='/assets/flags/square/{{count.resourse}}.png'>
+              </ion-thumbnail>
+              <ion-label>{{count.name}}</ion-label>
+            </ion-item>
+           
+      </ion-item>
+     
+    </ion-list>
+  </ion-card> -->

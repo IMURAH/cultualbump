@@ -1,0 +1,18 @@
+.custom-block-select {
+    // min-width: 100%
+}
+ion-grid {
+    background-image: url('/assets/map-of-world.jpg');
+    background-size: cover;
+    background-position: center;
+}
+.custom-full-grid {
+    height: 100%
+}
+ion-img, img {
+    height: 100px;
+    object-fit: contain;
+}
+ion-card {
+    background-color: white;
+}

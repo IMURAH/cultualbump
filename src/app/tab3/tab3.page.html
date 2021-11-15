@@ -1,0 +1,38 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-back-button defaultHref="/tabs/tab1"></ion-back-button>
+    </ion-buttons>
+    <ion-title>
+      Select Home Country
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <ion-grid class="custom-full-grid">
+    <ion-row class="custom-full-grid ion-align-items-center">
+      <ion-col class="ion-text-center">
+
+        <ion-card>
+          <ion-card-content>
+            <img src="assets/CultureBump1_RGBwebColor-400x309.png" class="ion-margin-bottom">
+    
+            <img src="assets/flags/square/sweden.png" class="ion-margin-top ion-margin-bottom">
+      
+            <ion-item class="ion-margin-top">
+              <ion-label position="floating">Select Home Country</ion-label>
+              <ion-select class="custom-block-select" #C (ionChange)="onChange(C.value)" okText="Okay" cancelText="Dismiss">
+                <ion-select-option *ngFor="let c of countries" value="{{c.id}}" >{{c.name}}</ion-select-option>
+              </ion-select>
+            </ion-item>
+
+            <ion-button expand="block">Save Home Country</ion-button>
+
+          </ion-card-content>
+        </ion-card>
+
+      </ion-col>
+    </ion-row>
+  </ion-grid>
+</ion-content>

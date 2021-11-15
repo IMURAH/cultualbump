@@ -1,0 +1,7 @@
+{
+  "name": "CultureBump",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
