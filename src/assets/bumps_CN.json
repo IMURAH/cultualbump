@@ -1,0 +1,2473 @@
+{
+  "continent": [
+    {
+      "continent_id": "1",
+      "continent_name": "非洲"
+    },
+    {
+      "continent_id": "2",
+      "continent_name": "亚洲"
+    },
+    {
+      "continent_id": "3",
+      "continent_name": "欧洲"
+    },
+    {
+      "continent_id": "4",
+      "continent_name": "北美"
+    },
+    {
+      "continent_id": "5",
+      "continent_name": "南美"
+    }
+  ],
+  "country": [
+    {
+      "country_id": "9",
+      "continent_id": "1",
+      "country_name": "埃及",
+      "latitude": "27.120553",
+      "longitude": "29.602498",
+      "resourceName": "egypt",
+      "continent_name": "非洲"
+    },
+    {
+      "country_id": "10",
+      "continent_id": "1",
+      "country_name": "利比亚",
+      "latitude": "25.3351",
+      "longitude": "17.528331",
+      "resourceName": "libya",
+      "continent_name": "非洲"
+    },
+    {
+      "country_id": "11",
+      "continent_id": "1",
+      "country_name": "阿尔及利亚",
+      "latitude": "28.033886",
+      "longitude": "1.659626",
+      "resourceName": "algeria",
+      "continent_name": "非洲"
+    },
+    {
+      "country_id": "12",
+      "continent_id": "1",
+      "country_name": "安哥拉",
+      "latitude": "-12.202692",
+      "longitude": "17.56887",
+      "resourceName": "angola",
+      "continent_name": "非洲"
+    },
+    {
+      "country_id": "13",
+      "continent_id": "1",
+      "country_name": "科特迪瓦",
+      "latitude": "7.539989",
+      "longitude": "-5.54708",
+      "resourceName": "cote_d_ivoire",
+      "continent_name": "非洲"
+    },
+    {
+      "country_id": "14",
+      "continent_id": "1",
+      "country_name": "摩洛哥",
+      "latitude": "31.791702",
+      "longitude": "-7.09262",
+      "resourceName": "morocco",
+      "continent_name": "非洲"
+    },
+    {
+      "country_id": "25",
+      "continent_id": "1",
+      "country_name": "尼日利亚",
+      "latitude": "9.594142",
+      "longitude": "8.151568",
+      "resourceName": "nigeria",
+      "continent_name": "非洲"
+    },
+    {
+      "country_id": "1",
+      "continent_id": "2",
+      "country_name": "台湾",
+      "latitude": "23.69781",
+      "longitude": "120.960515",
+      "resourceName": "taiwan",
+      "continent_name": "亚洲"
+    },
+    {
+      "country_id": "2",
+      "continent_id": "2",
+      "country_name": "中国",
+      "latitude": "35.86166",
+      "longitude": "104.195397",
+      "resourceName": "china",
+      "continent_name": "亚洲"
+    },
+    {
+      "country_id": "3",
+      "continent_id": "2",
+      "country_name": "日本",
+      "latitude": "36.204824",
+      "longitude": "138.252924",
+      "resourceName": "japan",
+      "continent_name": "亚洲"
+    },
+    {
+      "country_id": "4",
+      "continent_id": "2",
+      "country_name": "韩国",
+      "latitude": "35.907757",
+      "longitude": "127.766922",
+      "resourceName": "south_korea",
+      "continent_name": "亚洲"
+    },
+    {
+      "country_id": "5",
+      "continent_id": "2",
+      "country_name": "泰国",
+      "latitude": "15.870032",
+      "longitude": "100.992541",
+      "resourceName": "thailand",
+      "continent_name": "亚洲"
+    },
+    {
+      "country_id": "6",
+      "continent_id": "2",
+      "country_name": "越南",
+      "latitude": "14.058324",
+      "longitude": "108.277199",
+      "resourceName": "vietnam",
+      "continent_name": "亚洲"
+    },
+    {
+      "country_id": "7",
+      "continent_id": "2",
+      "country_name": "印度",
+      "latitude": "20.593684",
+      "longitude": "78.96288",
+      "resourceName": "india",
+      "continent_name": "亚洲"
+    },
+    {
+      "country_id": "8",
+      "continent_id": "2",
+      "country_name": "约旦",
+      "latitude": "30.585164",
+      "longitude": "36.238414",
+      "resourceName": "jordan",
+      "continent_name": "亚洲"
+    },
+    {
+      "country_id": "24",
+      "continent_id": "2",
+      "country_name": "沙特阿拉伯",
+      "latitude": "23.885942",
+      "longitude": "45.079162",
+      "resourceName": "saudi_arabia",
+      "continent_name": "亚洲"
+    },
+    {
+      "country_id": "26",
+      "continent_id": "2",
+      "country_name": "俄罗斯",
+      "latitude": "55.121819",
+      "longitude": "93.912487",
+      "resourceName": "russia",
+      "continent_name": "亚洲"
+    },
+    {
+      "country_id": "15",
+      "continent_id": "3",
+      "country_name": "英国",
+      "latitude": "52.693968",
+      "longitude": "-1.574764",
+      "resourceName": "great_britain",
+      "continent_name": "欧洲"
+    },
+    {
+      "country_id": "16",
+      "continent_id": "3",
+      "country_name": "法国",
+      "latitude": "46.227638",
+      "longitude": "2.213749",
+      "resourceName": "france",
+      "continent_name": "欧洲"
+    },
+    {
+      "country_id": "17",
+      "continent_id": "3",
+      "country_name": "意大利",
+      "latitude": "41.87194",
+      "longitude": "12.56738",
+      "resourceName": "italy",
+      "continent_name": "欧洲"
+    },
+    {
+      "country_id": "18",
+      "continent_id": "3",
+      "country_name": "土耳其",
+      "latitude": "38.963745",
+      "longitude": "35.243322",
+      "resourceName": "turkey",
+      "continent_name": "欧洲"
+    },
+    {
+      "country_id": "0",
+      "continent_id": "4",
+      "country_name": "美国",
+      "latitude": "37.09024",
+      "longitude": "-95.712891",
+      "resourceName": "the_usa",
+      "continent_name": "北美"
+    },
+    {
+      "country_id": "19",
+      "continent_id": "4",
+      "country_name": "加拿大",
+      "latitude": "56.130366",
+      "longitude": "-106.346771",
+      "resourceName": "canada",
+      "continent_name": "北美"
+    },
+    {
+      "country_id": "20",
+      "continent_id": "4",
+      "country_name": "墨西哥",
+      "latitude": "23.634501",
+      "longitude": "-102.552784",
+      "resourceName": "mexico",
+      "continent_name": "北美"
+    },
+    {
+      "country_id": "21",
+      "continent_id": "5",
+      "country_name": "委内瑞拉",
+      "latitude": "6.42375",
+      "longitude": "-66.58973",
+      "resourceName": "venezuela",
+      "continent_name": "南美"
+    },
+    {
+      "country_id": "22",
+      "continent_id": "5",
+      "country_name": "巴西",
+      "latitude": "-14.235004",
+      "longitude": "-51.92528",
+      "resourceName": "brazil",
+      "continent_name": "南美"
+    }
+  ],
+  "characteristic": [
+    {
+      "characteristics_id": "31",
+      "behavior_id": "1",
+      "characteristics_description": "当迟到时，如果教授允许我便会敲门进入，有些教授不允许敲门进入。"
+    },
+    {
+      "characteristics_id": "35",
+      "behavior_id": "1",
+      "characteristics_description": "当迟到时，如果教授没有说明迟到十分钟后不可进入，我会敲门并往最近的空位走且向教授说Sorry。"
+    },
+    {
+      "characteristics_id": "41",
+      "behavior_id": "1",
+      "characteristics_description": "当迟到时，我会敲门并往最近的空位走且向教授说Sorry。"
+    },
+    {
+      "characteristics_id": "43",
+      "behavior_id": "1",
+      "characteristics_description": "当迟到时，我会敲门并往空位走且向教授致歉说Sorry。"
+    },
+    {
+      "characteristics_id": "49",
+      "behavior_id": "1",
+      "characteristics_description": "当迟到时，我会敲门并往空位走且向教授致歉说Sorry(如果教授在说话的话我会不致歉）。"
+    },
+    {
+      "characteristics_id": "56",
+      "behavior_id": "1",
+      "characteristics_description": "当迟到时，我会敲门并向教授说Sorry,等待教授坐下的许可或等到授课结束。"
+    },
+    {
+      "characteristics_id": "60",
+      "behavior_id": "1",
+      "characteristics_description": "当迟到时，学生需要敲门等待教授的回应并致歉后询问能否进入。如果允许学生往空位走的时候需要说Sorry，如果不允许学生需要为打扰课堂抱歉然后关门离开。"
+    },
+    {
+      "characteristics_id": "65",
+      "behavior_id": "1",
+      "characteristics_description": "当迟到时，根据具体情况（迟到多久/课的重要程度）可以选择不去。"
+    },
+    {
+      "characteristics_id": "71",
+      "behavior_id": "1",
+      "characteristics_description": "当迟到时，进教室时向教授致歉。"
+    },
+    {
+      "characteristics_id": "79",
+      "behavior_id": "1",
+      "characteristics_description": "当迟到时，先敲门后走进教室向教授致歉等待教授给予坐下的许可。"
+    },
+    {
+      "characteristics_id": "81",
+      "behavior_id": "1",
+      "characteristics_description": "当迟到时，先敲门后走进教室向教授致歉等待教授给予坐下的许可。"
+    },
+    {
+      "characteristics_id": "84",
+      "behavior_id": "1",
+      "characteristics_description": "当迟到时，溜进教室坐在最近的空位上，课后再向教授致歉。"
+    },
+    {
+      "characteristics_id": "88",
+      "behavior_id": "1",
+      "characteristics_description": "当迟到时，如果在15分钟之内我就敲门问教授能不能加入课堂，15分之外的话就不加入了。"
+    },
+    {
+      "characteristics_id": "98",
+      "behavior_id": "1",
+      "characteristics_description": "当迟到时，我敲门等待老师指示我坐去我指定的位置，途中不直视老师，如果太晚就不进教室了。"
+    },
+    {
+      "characteristics_id": "108",
+      "behavior_id": "1",
+      "characteristics_description": "当迟到时，走进教室向教授致歉等待教授给予坐下的许可，如果是大教室的话就安静的找个座位坐下不打扰教学。"
+    },
+    {
+      "characteristics_id": "118",
+      "behavior_id": "1",
+      "characteristics_description": "当迟到时，安静的找最近的座位坐下，如果老师问为什么迟到就向老师解释。"
+    },
+    {
+      "characteristics_id": "7",
+      "behavior_id": "2",
+      "characteristics_description": "可以带电脑去教室但是不可以使用。"
+    },
+    {
+      "characteristics_id": "17",
+      "behavior_id": "2",
+      "characteristics_description": "可以带电脑去教室并使用，课堂上可以用手机看短信不过尽量不要被老师发现。"
+    },
+    {
+      "characteristics_id": "38",
+      "behavior_id": "2",
+      "characteristics_description": "不带电脑去教室。"
+    },
+    {
+      "characteristics_id": "48",
+      "behavior_id": "2",
+      "characteristics_description": "不在教室用电脑。"
+    },
+    {
+      "characteristics_id": "57",
+      "behavior_id": "2",
+      "characteristics_description": "除了某些特别的课以外不允许带电脑到教室。"
+    },
+    {
+      "characteristics_id": "63",
+      "behavior_id": "2",
+      "characteristics_description": "不带电脑去教室也不在课上看手机。"
+    },
+    {
+      "characteristics_id": "69",
+      "behavior_id": "2",
+      "characteristics_description": "严禁使用手机。"
+    },
+    {
+      "characteristics_id": "76",
+      "behavior_id": "2",
+      "characteristics_description": "可以带电脑去教室并使用，严禁使用手机。"
+    },
+    {
+      "characteristics_id": "91",
+      "behavior_id": "2",
+      "characteristics_description": "有时在授课中使用电脑。"
+    },
+    {
+      "characteristics_id": "99",
+      "behavior_id": "2",
+      "characteristics_description": "不带电脑去课堂，可以带手机但是得关机。."
+    },
+    {
+      "characteristics_id": "113",
+      "behavior_id": "2",
+      "characteristics_description": "有时在授课中使用电脑但不能打扰到他人。"
+    },
+    {
+      "characteristics_id": "116",
+      "behavior_id": "2",
+      "characteristics_description": "在课中使用电脑。"
+    },
+    {
+      "characteristics_id": "119",
+      "behavior_id": "2",
+      "characteristics_description": "只有在老师特别告知的情况下才可以带电脑去教室并在课堂中使用。"
+    },
+    {
+      "characteristics_id": "120",
+      "behavior_id": "2",
+      "characteristics_description": "可以带电脑去教室并在课堂中使用。"
+    },
+    {
+      "characteristics_id": "5",
+      "behavior_id": "3",
+      "characteristics_description": "如果饿了可以在课前课后吃饭喝水。"
+    },
+    {
+      "characteristics_id": "15",
+      "behavior_id": "3",
+      "characteristics_description": "如果饿了可以带食物和水进教室，如果老师觉得不妥当会和学生说明。"
+    },
+    {
+      "characteristics_id": "68",
+      "behavior_id": "3",
+      "characteristics_description": "如果是小班大家都饿了的话有的时候老师会带学生去吧吃东西。"
+    },
+    {
+      "characteristics_id": "74",
+      "behavior_id": "3",
+      "characteristics_description": "如果饿了会在课前或课后吃饭因为课中吃饭是不礼貌的， 如果课超过三小时可以带水。"
+    },
+    {
+      "characteristics_id": "100",
+      "behavior_id": "3",
+      "characteristics_description": "如果饿了且在老师看不到的地方可以偷偷吃东西。"
+    },
+    {
+      "characteristics_id": "2",
+      "behavior_id": "4",
+      "characteristics_description": "如果课中有问题的话可以问同学。"
+    },
+    {
+      "characteristics_id": "12",
+      "behavior_id": "4",
+      "characteristics_description": "如果课中有问题的话就举手问老师。"
+    },
+    {
+      "characteristics_id": "32",
+      "behavior_id": "4",
+      "characteristics_description": "如果课中有问题的话把问题留着课后问老师。"
+    },
+    {
+      "characteristics_id": "50",
+      "behavior_id": "4",
+      "characteristics_description": "如果课中有问题的话就举手并把手指向上方问老师问题。"
+    },
+    {
+      "characteristics_id": "61",
+      "behavior_id": "4",
+      "characteristics_description": "如果课中有问题的话把问题留着课后问老师或书面问老师。"
+    },
+    {
+      "characteristics_id": "82",
+      "behavior_id": "4",
+      "characteristics_description": "如果课中有问题的话可以课中或者课后问同学。"
+    },
+    {
+      "characteristics_id": "95",
+      "behavior_id": "4",
+      "characteristics_description": "如果课中有问题的话可以课后问同学。"
+    },
+    {
+      "characteristics_id": "104",
+      "behavior_id": "4",
+      "characteristics_description": "如果课中有问题的话举手等待老师的反应然后起立提问。"
+    },
+    {
+      "characteristics_id": "115",
+      "behavior_id": "4",
+      "characteristics_description": "如果课中有问题的话可以课中问老师或者课后问同学。"
+    },
+    {
+      "characteristics_id": "123",
+      "behavior_id": "4",
+      "characteristics_description": "如果课中有问题的话就举手等待老师的许可。"
+    },
+    {
+      "characteristics_id": "125",
+      "behavior_id": "4",
+      "characteristics_description": "如果课中有问题的话就在课末举手问老师或者在补习的时候问。"
+    },
+    {
+      "characteristics_id": "6",
+      "behavior_id": "5",
+      "characteristics_description": "称呼老师为教授/老师。"
+    },
+    {
+      "characteristics_id": "16",
+      "behavior_id": "5",
+      "characteristics_description": "称呼老师为Dr.姓或Professor 姓， 有的时候会有特别的指示。"
+    },
+    {
+      "characteristics_id": "21",
+      "behavior_id": "5",
+      "characteristics_description": "称呼老师为先生(Sensei)。"
+    },
+    {
+      "characteristics_id": "23",
+      "behavior_id": "5",
+      "characteristics_description": "称呼老师为gyosu。"
+    },
+    {
+      "characteristics_id": "25",
+      "behavior_id": "5",
+      "characteristics_description": "称呼老师为á¹¢ÄstrÄcÄry。"
+    },
+    {
+      "characteristics_id": "27",
+      "behavior_id": "5",
+      "characteristics_description": "称呼老师为GiÃ¡o sÆ°。"
+    },
+    {
+      "characteristics_id": "29",
+      "behavior_id": "5",
+      "characteristics_description": "称呼老师为Sir/Madam。"
+    },
+    {
+      "characteristics_id": "75",
+      "behavior_id": "5",
+      "characteristics_description": "称呼老师为Mr或Mrs。"
+    },
+    {
+      "characteristics_id": "90",
+      "behavior_id": "5",
+      "characteristics_description": "称呼老师为Professor并使用敬语。"
+    },
+    {
+      "characteristics_id": "101",
+      "behavior_id": "5",
+      "characteristics_description": "依照他们的喜好称呼老师。"
+    },
+    {
+      "characteristics_id": "112",
+      "behavior_id": "5",
+      "characteristics_description": "依照他们名/中间名来称呼老师。"
+    },
+    {
+      "characteristics_id": "117",
+      "behavior_id": "5",
+      "characteristics_description": "称呼老师为Professor。"
+    },
+    {
+      "characteristics_id": "121",
+      "behavior_id": "5",
+      "characteristics_description": "称呼老师为Doctor。"
+    },
+    {
+      "characteristics_id": "126",
+      "behavior_id": "5",
+      "characteristics_description": "称呼老师为Dr.姓。"
+    },
+    {
+      "characteristics_id": "18",
+      "behavior_id": "6",
+      "characteristics_description": "通过记笔记，点头和注视老师来表达我很专注且尊重老师。"
+    },
+    {
+      "characteristics_id": "39",
+      "behavior_id": "6",
+      "characteristics_description": "通过双手交叉在胸前并注视老师来表达我很专注且尊重老师，坐在前排是最简单表达专注和尊重的方法。"
+    },
+    {
+      "characteristics_id": "46",
+      "behavior_id": "6",
+      "characteristics_description": "通过双手交叉在胸前并注视老师来表达我很专注且尊重老师。"
+    },
+    {
+      "characteristics_id": "77",
+      "behavior_id": "6",
+      "characteristics_description": "通过认真听讲，点头和注视老师来表达我很专注且尊重老师。"
+    },
+    {
+      "characteristics_id": "86",
+      "behavior_id": "6",
+      "characteristics_description": "通过认真听讲，点头和注视老师来表达我很专注且尊重老师。"
+    },
+    {
+      "characteristics_id": "92",
+      "behavior_id": "6",
+      "characteristics_description": "通过提问和评论来表达我很专注且尊重老师，笔记可记可不记。"
+    },
+    {
+      "characteristics_id": "96",
+      "behavior_id": "6",
+      "characteristics_description": "通过交谈中使用敬语来表达我很专注且尊重老师。"
+    },
+    {
+      "characteristics_id": "102",
+      "behavior_id": "6",
+      "characteristics_description": "通过记笔记和目光交流来表达我很专注且尊重老师。"
+    },
+    {
+      "characteristics_id": "122",
+      "behavior_id": "6",
+      "characteristics_description": "通过记笔记和目光交流来表达我很专注且尊重老师。"
+    },
+    {
+      "characteristics_id": "124",
+      "behavior_id": "6",
+      "characteristics_description": "通过记笔记，目光交流和安静的坐在前排来表达我很专注且尊重老师。"
+    },
+    {
+      "characteristics_id": "4",
+      "behavior_id": "7",
+      "characteristics_description": "准备不足的时候我也会考试。"
+    },
+    {
+      "characteristics_id": "14",
+      "behavior_id": "7",
+      "characteristics_description": "准备不足的时候我会在课外接触老师询问可不可以改日再考。"
+    },
+    {
+      "characteristics_id": "34",
+      "behavior_id": "7",
+      "characteristics_description": "准备不足的时候我会告诉老师我没有准备好但是在印度是不可以延期考试的。"
+    },
+    {
+      "characteristics_id": "37",
+      "behavior_id": "7",
+      "characteristics_description": "准备不足的时候学生会问老师可不可以延期或安排一个学生代表在课外与老师讨论。"
+    },
+    {
+      "characteristics_id": "45",
+      "behavior_id": "7",
+      "characteristics_description": "准备不足的时候同学会问老师可不可以延期。"
+    },
+    {
+      "characteristics_id": "51",
+      "behavior_id": "7",
+      "characteristics_description": "准备不足的时候有时同学会问老师可不可以延期。"
+    },
+    {
+      "characteristics_id": "62",
+      "behavior_id": "7",
+      "characteristics_description": "准备不足的时候学生会问老师可不可以延期或安排一个学生代表在课外与老师讨论。"
+    },
+    {
+      "characteristics_id": "73",
+      "behavior_id": "7",
+      "characteristics_description": "准备不足的时候我也会考试除非有学校开的正式假条。"
+    },
+    {
+      "characteristics_id": "85",
+      "behavior_id": "7",
+      "characteristics_description": "准备不足的时候我也会考试。"
+    },
+    {
+      "characteristics_id": "103",
+      "behavior_id": "7",
+      "characteristics_description": "准备不足的时候我也会考试，老师也会随机随堂考所以要一直准备着。"
+    },
+    {
+      "characteristics_id": "114",
+      "behavior_id": "7",
+      "characteristics_description": "准备不足的时候会尝试作弊或者要求延期。"
+    },
+    {
+      "characteristics_id": "8",
+      "behavior_id": "8",
+      "characteristics_description": "如果提前写完试卷则会用尽时间去确定写的答案都是对的。"
+    },
+    {
+      "characteristics_id": "19",
+      "behavior_id": "8",
+      "characteristics_description": "如果提前写完试卷我就会早走。"
+    },
+    {
+      "characteristics_id": "67",
+      "behavior_id": "8",
+      "characteristics_description": "如果提前写完试卷也不可以早退，必须呆满前20分钟，如果在最后30分钟才完成也必须得等到考试结束。"
+    },
+    {
+      "characteristics_id": "107",
+      "behavior_id": "8",
+      "characteristics_description": "如果提前写完会把答案盖起来等到所有人都提交了他们的答案或者举手等老师来收走答案。"
+    },
+    {
+      "characteristics_id": "111",
+      "behavior_id": "8",
+      "characteristics_description": "如果提前写完我可以早走。"
+    },
+    {
+      "characteristics_id": "3",
+      "behavior_id": "9",
+      "characteristics_description": "当课外组队完成作业时，一个队长会把任务分配给各个组员之后再组装。"
+    },
+    {
+      "characteristics_id": "13",
+      "behavior_id": "9",
+      "characteristics_description": "当课外组队完成作业时，组员会把任务分配给各个组员完成之后再组装。"
+    },
+    {
+      "characteristics_id": "33",
+      "behavior_id": "9",
+      "characteristics_description": "当课外组队完成作业时，会有一个队长但是任务都由各自完成。"
+    },
+    {
+      "characteristics_id": "36",
+      "behavior_id": "9",
+      "characteristics_description": "当课外组队完成作业时，会有队长来指引组员。"
+    },
+    {
+      "characteristics_id": "44",
+      "behavior_id": "9",
+      "characteristics_description": "当课外组队完成作业时，会有队长来指引组员，大家相互合作。"
+    },
+    {
+      "characteristics_id": "54",
+      "behavior_id": "9",
+      "characteristics_description": "当课外组队完成作业时，会有队长来指引组员甚至完成大部分工作。"
+    },
+    {
+      "characteristics_id": "66",
+      "behavior_id": "9",
+      "characteristics_description": "当课外组队完成作业时，组员会分配任务独自完成再组装，这在英国学校里是尤为重要的。"
+    },
+    {
+      "characteristics_id": "72",
+      "behavior_id": "9",
+      "characteristics_description": "当课外组队完成作业时，组员会分配任务然后一起完成。"
+    },
+    {
+      "characteristics_id": "89",
+      "behavior_id": "9",
+      "characteristics_description": "当课外组队完成作业时，组员主要一起完成，少部分独自完成。"
+    },
+    {
+      "characteristics_id": "105",
+      "behavior_id": "9",
+      "characteristics_description": "当课外组队完成作业时，一般会有投票选出或者老师指定的队长，分配任务，完成作业并上交给老师。"
+    },
+    {
+      "characteristics_id": "109",
+      "behavior_id": "9",
+      "characteristics_description": "当课外组队完成作业时，组员会把任务分配给各个组员完成之后再组装，如果有问题便会向老师请教。"
+    },
+    {
+      "characteristics_id": "9",
+      "behavior_id": "10",
+      "characteristics_description": "预计看见台湾同龄的男/女生同学。"
+    },
+    {
+      "characteristics_id": "10",
+      "behavior_id": "10",
+      "characteristics_description": "预计看见中国同龄的男/女生同学。"
+    },
+    {
+      "characteristics_id": "20",
+      "behavior_id": "10",
+      "characteristics_description": "预计看见不同种族，国籍，年龄与性别的同学。"
+    },
+    {
+      "characteristics_id": "22",
+      "behavior_id": "10",
+      "characteristics_description": "预计看见日本同龄的男/女生同学。"
+    },
+    {
+      "characteristics_id": "24",
+      "behavior_id": "10",
+      "characteristics_description": "预计看见韩国同龄的男/女生同学。"
+    },
+    {
+      "characteristics_id": "26",
+      "behavior_id": "10",
+      "characteristics_description": "预计看见泰国同龄的男/女生同学。"
+    },
+    {
+      "characteristics_id": "28",
+      "behavior_id": "10",
+      "characteristics_description": "预计看见越南同龄的男/女生同学。"
+    },
+    {
+      "characteristics_id": "30",
+      "behavior_id": "10",
+      "characteristics_description": "预计看见印度同龄的男/女生同学。"
+    },
+    {
+      "characteristics_id": "40",
+      "behavior_id": "10",
+      "characteristics_description": "预计看见约旦同龄的男/女生同学。"
+    },
+    {
+      "characteristics_id": "42",
+      "behavior_id": "10",
+      "characteristics_description": "预计看见同龄同性的同学，主要来自沙特阿拉伯，有可能来自别的种族。"
+    },
+    {
+      "characteristics_id": "47",
+      "behavior_id": "10",
+      "characteristics_description": "预计看见同龄的同学，主要来自埃及，有可能来自别的种族，女性在社会科学和人类学更多。"
+    },
+    {
+      "characteristics_id": "52",
+      "behavior_id": "10",
+      "characteristics_description": "预计看见同龄的同学，主要来自利比亚，有可能来自别的种族。"
+    },
+    {
+      "characteristics_id": "55",
+      "behavior_id": "10",
+      "characteristics_description": "预计看见同龄的同学，有可能来自别的种族，撒哈拉以南的同学女性比男性多很多。"
+    },
+    {
+      "characteristics_id": "58",
+      "behavior_id": "10",
+      "characteristics_description": "预计看见安哥拉同龄的男/女生同学。"
+    },
+    {
+      "characteristics_id": "59",
+      "behavior_id": "10",
+      "characteristics_description": "预计看见科特迪瓦同龄的男/女生同学。"
+    },
+    {
+      "characteristics_id": "64",
+      "behavior_id": "10",
+      "characteristics_description": "预计看见摩洛哥同龄的同学，有可能来自别的种族，撒哈拉以南的同学女性比男性多很多。"
+    },
+    {
+      "characteristics_id": "70",
+      "behavior_id": "10",
+      "characteristics_description": "预计看见英国以及国际上同龄的同学。"
+    },
+    {
+      "characteristics_id": "78",
+      "behavior_id": "10",
+      "characteristics_description": "预计看见法国以及国际上同龄的同学。"
+    },
+    {
+      "characteristics_id": "80",
+      "behavior_id": "10",
+      "characteristics_description": "预计看见意大利以及国际上同龄的同学。"
+    },
+    {
+      "characteristics_id": "83",
+      "behavior_id": "10",
+      "characteristics_description": "预计看见土耳其同龄的同学。"
+    },
+    {
+      "characteristics_id": "87",
+      "behavior_id": "10",
+      "characteristics_description": "预计看见加拿大同龄的同学。"
+    },
+    {
+      "characteristics_id": "93",
+      "behavior_id": "10",
+      "characteristics_description": "预计看见墨西哥同龄的同学。"
+    },
+    {
+      "characteristics_id": "94",
+      "behavior_id": "10",
+      "characteristics_description": "预计看见委內瑞拉同龄的同学。"
+    },
+    {
+      "characteristics_id": "97",
+      "behavior_id": "10",
+      "characteristics_description": "预计看见巴西同龄的同学。"
+    },
+    {
+      "characteristics_id": "106",
+      "behavior_id": "10",
+      "characteristics_description": "预计看见15-30岁的同学来自尼日利亚的不同地区，某些大学会有尼日利亚学生来自相同的地区或部落。"
+    },
+    {
+      "characteristics_id": "110",
+      "behavior_id": "10",
+      "characteristics_description": "预计看见俄罗斯同龄的同学，大家都有着相同的目标。"
+    }
+  ],
+  "nation_characteristic": [
+    {
+      "nation_characteristics_id": "1",
+      "country_id": "1",
+      "characteristics_id": "118",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "2",
+      "country_id": "1",
+      "characteristics_id": "2",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "3",
+      "country_id": "1",
+      "characteristics_id": "3",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "4",
+      "country_id": "1",
+      "characteristics_id": "4",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "5",
+      "country_id": "1",
+      "characteristics_id": "5",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "6",
+      "country_id": "1",
+      "characteristics_id": "6",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "7",
+      "country_id": "1",
+      "characteristics_id": "7",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "8",
+      "country_id": "1",
+      "characteristics_id": "8",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "9",
+      "country_id": "1",
+      "characteristics_id": "9",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "10",
+      "country_id": "2",
+      "characteristics_id": "118",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "11",
+      "country_id": "2",
+      "characteristics_id": "2",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "12",
+      "country_id": "2",
+      "characteristics_id": "3",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "13",
+      "country_id": "2",
+      "characteristics_id": "4",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "14",
+      "country_id": "2",
+      "characteristics_id": "5",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "15",
+      "country_id": "2",
+      "characteristics_id": "6",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "16",
+      "country_id": "2",
+      "characteristics_id": "7",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "17",
+      "country_id": "2",
+      "characteristics_id": "8",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "18",
+      "country_id": "2",
+      "characteristics_id": "10",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "19",
+      "country_id": "0",
+      "characteristics_id": "84",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "20",
+      "country_id": "0",
+      "characteristics_id": "12",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "21",
+      "country_id": "0",
+      "characteristics_id": "13",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "22",
+      "country_id": "0",
+      "characteristics_id": "14",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "23",
+      "country_id": "0",
+      "characteristics_id": "15",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "24",
+      "country_id": "0",
+      "characteristics_id": "16",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "25",
+      "country_id": "0",
+      "characteristics_id": "17",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "26",
+      "country_id": "0",
+      "characteristics_id": "18",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "27",
+      "country_id": "0",
+      "characteristics_id": "19",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "28",
+      "country_id": "0",
+      "characteristics_id": "20",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "29",
+      "country_id": "3",
+      "characteristics_id": "118",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "30",
+      "country_id": "3",
+      "characteristics_id": "2",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "31",
+      "country_id": "3",
+      "characteristics_id": "3",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "32",
+      "country_id": "3",
+      "characteristics_id": "4",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "33",
+      "country_id": "3",
+      "characteristics_id": "21",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "34",
+      "country_id": "3",
+      "characteristics_id": "7",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "35",
+      "country_id": "3",
+      "characteristics_id": "8",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "36",
+      "country_id": "3",
+      "characteristics_id": "22",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "37",
+      "country_id": "4",
+      "characteristics_id": "118",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "38",
+      "country_id": "4",
+      "characteristics_id": "2",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "39",
+      "country_id": "4",
+      "characteristics_id": "3",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "40",
+      "country_id": "4",
+      "characteristics_id": "4",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "41",
+      "country_id": "4",
+      "characteristics_id": "23",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "42",
+      "country_id": "4",
+      "characteristics_id": "7",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "43",
+      "country_id": "4",
+      "characteristics_id": "8",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "44",
+      "country_id": "5",
+      "characteristics_id": "118",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "45",
+      "country_id": "5",
+      "characteristics_id": "2",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "46",
+      "country_id": "5",
+      "characteristics_id": "3",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "47",
+      "country_id": "5",
+      "characteristics_id": "4",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "48",
+      "country_id": "5",
+      "characteristics_id": "5",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "49",
+      "country_id": "5",
+      "characteristics_id": "25",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "50",
+      "country_id": "5",
+      "characteristics_id": "7",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "51",
+      "country_id": "5",
+      "characteristics_id": "8",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "52",
+      "country_id": "5",
+      "characteristics_id": "26",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "53",
+      "country_id": "6",
+      "characteristics_id": "118",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "54",
+      "country_id": "6",
+      "characteristics_id": "2",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "55",
+      "country_id": "6",
+      "characteristics_id": "3",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "56",
+      "country_id": "6",
+      "characteristics_id": "4",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "57",
+      "country_id": "6",
+      "characteristics_id": "5",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "58",
+      "country_id": "6",
+      "characteristics_id": "27",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "59",
+      "country_id": "6",
+      "characteristics_id": "7",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "60",
+      "country_id": "6",
+      "characteristics_id": "8",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "61",
+      "country_id": "6",
+      "characteristics_id": "28",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "62",
+      "country_id": "7",
+      "characteristics_id": "35",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "63",
+      "country_id": "7",
+      "characteristics_id": "32",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "64",
+      "country_id": "7",
+      "characteristics_id": "33",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "65",
+      "country_id": "7",
+      "characteristics_id": "34",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "66",
+      "country_id": "7",
+      "characteristics_id": "5",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "67",
+      "country_id": "7",
+      "characteristics_id": "29",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "68",
+      "country_id": "7",
+      "characteristics_id": "8",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "69",
+      "country_id": "7",
+      "characteristics_id": "30",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "70",
+      "country_id": "8",
+      "characteristics_id": "35",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "71",
+      "country_id": "8",
+      "characteristics_id": "36",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "72",
+      "country_id": "8",
+      "characteristics_id": "37",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "73",
+      "country_id": "8",
+      "characteristics_id": "5",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "74",
+      "country_id": "8",
+      "characteristics_id": "38",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "75",
+      "country_id": "8",
+      "characteristics_id": "39",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "76",
+      "country_id": "8",
+      "characteristics_id": "40",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "77",
+      "country_id": "24",
+      "characteristics_id": "41",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "78",
+      "country_id": "24",
+      "characteristics_id": "36",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "79",
+      "country_id": "24",
+      "characteristics_id": "37",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "80",
+      "country_id": "24",
+      "characteristics_id": "5",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "81",
+      "country_id": "24",
+      "characteristics_id": "38",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "82",
+      "country_id": "24",
+      "characteristics_id": "39",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "83",
+      "country_id": "24",
+      "characteristics_id": "42",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "85",
+      "country_id": "9",
+      "characteristics_id": "44",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "86",
+      "country_id": "9",
+      "characteristics_id": "45",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "87",
+      "country_id": "9",
+      "characteristics_id": "5",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "88",
+      "country_id": "9",
+      "characteristics_id": "48",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "89",
+      "country_id": "9",
+      "characteristics_id": "46",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "90",
+      "country_id": "9",
+      "characteristics_id": "47",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "92",
+      "country_id": "10",
+      "characteristics_id": "50",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "93",
+      "country_id": "10",
+      "characteristics_id": "51",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "94",
+      "country_id": "10",
+      "characteristics_id": "5",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "95",
+      "country_id": "10",
+      "characteristics_id": "48",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "96",
+      "country_id": "10",
+      "characteristics_id": "52",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "97",
+      "country_id": "10",
+      "characteristics_id": "49",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "98",
+      "country_id": "10",
+      "characteristics_id": "54",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "99",
+      "country_id": "11",
+      "characteristics_id": "5",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "100",
+      "country_id": "11",
+      "characteristics_id": "48",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "101",
+      "country_id": "11",
+      "characteristics_id": "19",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "102",
+      "country_id": "11",
+      "characteristics_id": "55",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "103",
+      "country_id": "12",
+      "characteristics_id": "56",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "104",
+      "country_id": "12",
+      "characteristics_id": "4",
+      "extra_description": "有些学生会在课外寻求老师的延期考试许可"
+    },
+    {
+      "nation_characteristics_id": "105",
+      "country_id": "12",
+      "characteristics_id": "5",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "106",
+      "country_id": "12",
+      "characteristics_id": "29",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "107",
+      "country_id": "12",
+      "characteristics_id": "57",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "108",
+      "country_id": "12",
+      "characteristics_id": "8",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "109",
+      "country_id": "12",
+      "characteristics_id": "58",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "110",
+      "country_id": "13",
+      "characteristics_id": "56",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "111",
+      "country_id": "13",
+      "characteristics_id": "4",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "112",
+      "country_id": "13",
+      "characteristics_id": "5",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "113",
+      "country_id": "13",
+      "characteristics_id": "29",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "114",
+      "country_id": "13",
+      "characteristics_id": "57",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "115",
+      "country_id": "13",
+      "characteristics_id": "8",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "116",
+      "country_id": "13",
+      "characteristics_id": "59",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "117",
+      "country_id": "14",
+      "characteristics_id": "60",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "118",
+      "country_id": "14",
+      "characteristics_id": "61",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "119",
+      "country_id": "14",
+      "characteristics_id": "62",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "120",
+      "country_id": "14",
+      "characteristics_id": "5",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "121",
+      "country_id": "14",
+      "characteristics_id": "63",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "122",
+      "country_id": "14",
+      "characteristics_id": "46",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "123",
+      "country_id": "14",
+      "characteristics_id": "64",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "124",
+      "country_id": "15",
+      "characteristics_id": "65",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "125",
+      "country_id": "15",
+      "characteristics_id": "66",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "126",
+      "country_id": "15",
+      "characteristics_id": "67",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "127",
+      "country_id": "15",
+      "characteristics_id": "68",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "128",
+      "country_id": "15",
+      "characteristics_id": "69",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "129",
+      "country_id": "15",
+      "characteristics_id": "70",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "130",
+      "country_id": "16",
+      "characteristics_id": "71",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "131",
+      "country_id": "16",
+      "characteristics_id": "72",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "132",
+      "country_id": "16",
+      "characteristics_id": "73",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "133",
+      "country_id": "16",
+      "characteristics_id": "74",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "134",
+      "country_id": "16",
+      "characteristics_id": "75",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "135",
+      "country_id": "16",
+      "characteristics_id": "76",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "136",
+      "country_id": "16",
+      "characteristics_id": "77",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "137",
+      "country_id": "16",
+      "characteristics_id": "78",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "138",
+      "country_id": "17",
+      "characteristics_id": "79",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "139",
+      "country_id": "17",
+      "characteristics_id": "4",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "142",
+      "country_id": "17",
+      "characteristics_id": "38",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "143",
+      "country_id": "17",
+      "characteristics_id": "80",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "144",
+      "country_id": "18",
+      "characteristics_id": "81",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "145",
+      "country_id": "18",
+      "characteristics_id": "82",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "146",
+      "country_id": "18",
+      "characteristics_id": "36",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "147",
+      "country_id": "18",
+      "characteristics_id": "5",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "148",
+      "country_id": "18",
+      "characteristics_id": "38",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "149",
+      "country_id": "18",
+      "characteristics_id": "83",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "150",
+      "country_id": "19",
+      "characteristics_id": "84",
+      "extra_description": "Or I just don\u0027t go to class (depending on how late I am\/if the class isn\u0027t deemed a critical one etc.). Primarily, I don\u0027t want to interrupt, to bring attention to myself."
+    },
+    {
+      "nation_characteristics_id": "151",
+      "country_id": "19",
+      "characteristics_id": "85",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "152",
+      "country_id": "19",
+      "characteristics_id": "86",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "153",
+      "country_id": "19",
+      "characteristics_id": "87",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "154",
+      "country_id": "20",
+      "characteristics_id": "118",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "155",
+      "country_id": "20",
+      "characteristics_id": "89",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "156",
+      "country_id": "20",
+      "characteristics_id": "45",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "157",
+      "country_id": "20",
+      "characteristics_id": "5",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "158",
+      "country_id": "20",
+      "characteristics_id": "90",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "159",
+      "country_id": "20",
+      "characteristics_id": "91",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "160",
+      "country_id": "20",
+      "characteristics_id": "92",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "161",
+      "country_id": "20",
+      "characteristics_id": "93",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "162",
+      "country_id": "21",
+      "characteristics_id": "118",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "163",
+      "country_id": "21",
+      "characteristics_id": "89",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "164",
+      "country_id": "21",
+      "characteristics_id": "45",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "165",
+      "country_id": "21",
+      "characteristics_id": "5",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "166",
+      "country_id": "21",
+      "characteristics_id": "90",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "167",
+      "country_id": "21",
+      "characteristics_id": "92",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "168",
+      "country_id": "21",
+      "characteristics_id": "91",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "169",
+      "country_id": "21",
+      "characteristics_id": "94",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "172",
+      "country_id": "22",
+      "characteristics_id": "118",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "173",
+      "country_id": "22",
+      "characteristics_id": "115",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "174",
+      "country_id": "22",
+      "characteristics_id": "89",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "175",
+      "country_id": "22",
+      "characteristics_id": "5",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "176",
+      "country_id": "22",
+      "characteristics_id": "96",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "177",
+      "country_id": "22",
+      "characteristics_id": "92",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "178",
+      "country_id": "22",
+      "characteristics_id": "91",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "179",
+      "country_id": "22",
+      "characteristics_id": "97",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "181",
+      "country_id": "11",
+      "characteristics_id": "118",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "182",
+      "country_id": "25",
+      "characteristics_id": "118",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "183",
+      "country_id": "25",
+      "characteristics_id": "99",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "184",
+      "country_id": "25",
+      "characteristics_id": "100",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "185",
+      "country_id": "25",
+      "characteristics_id": "101",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "186",
+      "country_id": "25",
+      "characteristics_id": "102",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "187",
+      "country_id": "25",
+      "characteristics_id": "103",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "188",
+      "country_id": "25",
+      "characteristics_id": "104",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "189",
+      "country_id": "25",
+      "characteristics_id": "106",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "190",
+      "country_id": "25",
+      "characteristics_id": "105",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "191",
+      "country_id": "25",
+      "characteristics_id": "107",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "192",
+      "country_id": "26",
+      "characteristics_id": "108",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "193",
+      "country_id": "26",
+      "characteristics_id": "123",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "194",
+      "country_id": "26",
+      "characteristics_id": "109",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "195",
+      "country_id": "26",
+      "characteristics_id": "110",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "196",
+      "country_id": "26",
+      "characteristics_id": "111",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "197",
+      "country_id": "26",
+      "characteristics_id": "124",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "198",
+      "country_id": "26",
+      "characteristics_id": "112",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "199",
+      "country_id": "26",
+      "characteristics_id": "5",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "200",
+      "country_id": "26",
+      "characteristics_id": "113",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "201",
+      "country_id": "26",
+      "characteristics_id": "114",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "202",
+      "country_id": "22",
+      "characteristics_id": "51",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "203",
+      "country_id": "22",
+      "characteristics_id": "19",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "204",
+      "country_id": "21",
+      "characteristics_id": "115",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "205",
+      "country_id": "19",
+      "characteristics_id": "12",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "206",
+      "country_id": "19",
+      "characteristics_id": "13",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "207",
+      "country_id": "19",
+      "characteristics_id": "15",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "208",
+      "country_id": "19",
+      "characteristics_id": "16",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "209",
+      "country_id": "19",
+      "characteristics_id": "116",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "210",
+      "country_id": "19",
+      "characteristics_id": "19",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "211",
+      "country_id": "20",
+      "characteristics_id": "115",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "212",
+      "country_id": "20",
+      "characteristics_id": "19",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "213",
+      "country_id": "8",
+      "characteristics_id": "12",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "214",
+      "country_id": "8",
+      "characteristics_id": "117",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "215",
+      "country_id": "8",
+      "characteristics_id": "19",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "216",
+      "country_id": "2",
+      "characteristics_id": "102",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "217",
+      "country_id": "7",
+      "characteristics_id": "120",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "218",
+      "country_id": "7",
+      "characteristics_id": "102",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "219",
+      "country_id": "3",
+      "characteristics_id": "5",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "220",
+      "country_id": "3",
+      "characteristics_id": "102",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "221",
+      "country_id": "1",
+      "characteristics_id": "18",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "222",
+      "country_id": "6",
+      "characteristics_id": "102",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "223",
+      "country_id": "5",
+      "characteristics_id": "102",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "224",
+      "country_id": "4",
+      "characteristics_id": "24",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "225",
+      "country_id": "4",
+      "characteristics_id": "102",
+      "extra_description": "I also show respect by handing or taking things with both hands."
+    },
+    {
+      "nation_characteristics_id": "226",
+      "country_id": "10",
+      "characteristics_id": "121",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "227",
+      "country_id": "10",
+      "characteristics_id": "18",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "228",
+      "country_id": "14",
+      "characteristics_id": "36",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "229",
+      "country_id": "14",
+      "characteristics_id": "117",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "230",
+      "country_id": "14",
+      "characteristics_id": "19",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "231",
+      "country_id": "9",
+      "characteristics_id": "43",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "232",
+      "country_id": "9",
+      "characteristics_id": "117",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "233",
+      "country_id": "9",
+      "characteristics_id": "12",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "234",
+      "country_id": "9",
+      "characteristics_id": "19",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "235",
+      "country_id": "13",
+      "characteristics_id": "12",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "236",
+      "country_id": "13",
+      "characteristics_id": "13",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "237",
+      "country_id": "13",
+      "characteristics_id": "122",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "238",
+      "country_id": "12",
+      "characteristics_id": "12",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "239",
+      "country_id": "12",
+      "characteristics_id": "122",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "240",
+      "country_id": "12",
+      "characteristics_id": "13",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "241",
+      "country_id": "18",
+      "characteristics_id": "14",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "242",
+      "country_id": "18",
+      "characteristics_id": "16",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "243",
+      "country_id": "18",
+      "characteristics_id": "18",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "244",
+      "country_id": "18",
+      "characteristics_id": "19",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "245",
+      "country_id": "16",
+      "characteristics_id": "123",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "246",
+      "country_id": "16",
+      "characteristics_id": "19",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "247",
+      "country_id": "17",
+      "characteristics_id": "15",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "248",
+      "country_id": "17",
+      "characteristics_id": "16",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "249",
+      "country_id": "17",
+      "characteristics_id": "18",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "250",
+      "country_id": "17",
+      "characteristics_id": "19",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "251",
+      "country_id": "17",
+      "characteristics_id": "13",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "252",
+      "country_id": "17",
+      "characteristics_id": "12",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "253",
+      "country_id": "15",
+      "characteristics_id": "125",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "254",
+      "country_id": "15",
+      "characteristics_id": "73",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "255",
+      "country_id": "15",
+      "characteristics_id": "126",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "256",
+      "country_id": "15",
+      "characteristics_id": "18",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "257",
+      "country_id": "11",
+      "characteristics_id": "18",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "258",
+      "country_id": "11",
+      "characteristics_id": "12",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "259",
+      "country_id": "11",
+      "characteristics_id": "117",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "260",
+      "country_id": "11",
+      "characteristics_id": "45",
+      "extra_description": ""
+    },
+    {
+      "nation_characteristics_id": "261",
+      "country_id": "11",
+      "characteristics_id": "36",
+      "extra_description": ""
+    }
+  ],
+  "category": [
+    {
+      "category_id": "1",
+      "category_name": "Personal Situations"
+    },
+    {
+      "category_id": "2",
+      "category_name": "Classroom Behavior"
+    },
+    {
+      "category_id": "3",
+      "category_name": "Test Taking"
+    },
+    {
+      "category_id": "4",
+      "category_name": "Seeing other students"
+    }
+  ],
+  "behavior": [
+    {
+      "behavior_id": "1",
+      "category_id": "1",
+      "behavior_description": "Classroom Arrival - being late"
+    },
+    {
+      "behavior_id": "2",
+      "category_id": "1",
+      "behavior_description": "Electronic Usage"
+    },
+    {
+      "behavior_id": "3",
+      "category_id": "1",
+      "behavior_description": "Being HUNGRY IN CLASS"
+    },
+    {
+      "behavior_id": "4",
+      "category_id": "2",
+      "behavior_description": "Having a question"
+    },
+    {
+      "behavior_id": "5",
+      "category_id": "2",
+      "behavior_description": "Addressing teacher"
+    },
+    {
+      "behavior_id": "6",
+      "category_id": "2",
+      "behavior_description": "Showing focus and respect"
+    },
+    {
+      "behavior_id": "7",
+      "category_id": "3",
+      "behavior_description": "Being Unprepared"
+    },
+    {
+      "behavior_id": "8",
+      "category_id": "3",
+      "behavior_description": "Finishing early"
+    },
+    {
+      "behavior_id": "9",
+      "category_id": "4",
+      "behavior_description": "Working as a group outside"
+    },
+    {
+      "behavior_id": "10",
+      "category_id": "4",
+      "behavior_description": "Who is in class with me"
+    }
+  ]
+}
