@@ -13,6 +13,16 @@
         Single
       </ion-button>
     </ion-buttons>
+    <ion-buttons slot="start" (click)="toggleLanguage()" *ngIf="!chinese">
+      <ion-button>
+        中文
+      </ion-button>
+    </ion-buttons>
+    <ion-buttons slot="start" (click)="toggleLanguage()" *ngIf="chinese">
+      <ion-button>
+        English
+      </ion-button>
+    </ion-buttons>
   </ion-toolbar>
 </ion-header>
 

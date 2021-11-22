@@ -94,13 +94,15 @@ export class DataService {
   }
 
   setHomeCountry(home: Country) {
-    this.homeCountry = home;
-    this.storage.set('home_country', JSON.stringify(this.homeCountry));
-    let fileName = 'assets/bumps.json';
-    if (this.homeCountry.name == 'China') {
-      fileName = 'assets/bumps_CN.json';
-    }
+      this.homeCountry = home;
+      this.storage.set('home_country', JSON.stringify(this.homeCountry));
+  }
 
+  changeLanguage(chinese: boolean) {
+    let fileName = 'assets/bumps.json';
+    if (chinese) {
+        fileName = 'assets/bumps_CN.json';
+    }
     this.client.get(fileName, {})
         .subscribe(data => {
           // Split all countries into continents

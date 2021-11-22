@@ -77,7 +77,7 @@ export class ComparePage {
     this.bumps = this.ds.getCharacteristicsForCountries(counts, this.filterCat)
     let homeRes = this.home.resourse;
 
-    // console.log(this.bumps)
+    console.log(this.bumps)
 
     this.bumps.forEach(b => {
       b.slot = 'start';

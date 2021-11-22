@@ -21,6 +21,7 @@ export class HomePage implements OnInit {
   selected_countries: boolean[];
   flat_country_list: Country[];
   disabled_countries: boolean[];
+  chinese: boolean;
 
   constructor(private navCtrl: NavController, private ds: DataService) {
     this.ds = ds;
@@ -28,6 +29,7 @@ export class HomePage implements OnInit {
     // this.home = new Country();
     this.continents = [];
     this.multi_mode = false;
+    this.chinese = false;
     this.selected_countries = [];
     this.flat_country_list = [];
     this.disabled_countries = [];
@@ -41,11 +43,16 @@ export class HomePage implements OnInit {
     this.multi_mode = !this.multi_mode;
   }
 
+  toggleLanguage() {
+    this.chinese = !this.chinese;
+    this.ds.changeLanguage(this.chinese);
+  }
+
   multiCompare() {
     let compare_with = [];
     for (let i = 0; i < this.selected_countries.length; i++) {
       if (this.selected_countries[i]) {
-        compare_with.push(this.flat_country_list[i]) 
+        compare_with.push(this.flat_country_list[i]);
       }
     }
     const navParams: NavigationExtras = {
